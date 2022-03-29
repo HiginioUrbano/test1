@@ -1,1 +1,2 @@
-<php echo phinfo() ?>
+echo 'status'
+<php echo phpinfo() ?>
